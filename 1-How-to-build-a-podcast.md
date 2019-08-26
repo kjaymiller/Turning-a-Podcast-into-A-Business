@@ -62,20 +62,3 @@ You can host multiple podcasts
 ![PIT Podcast Object](https://kjaymiller.s3-us-west-2.amazonaws.com/images/Screen-Shot-2019-08-26-13-49-26.89.png)
 
 ### Getting Started, It's Super Cheap (If you don't count time)
-
-## The Transition from Podcast to Business
-### Should you even do this?
-Needs for a business:
-* A product
-* Demand for that product
-* Access to that customer base
-
-If your product is the ~~podcast~~ ads.
-Requirements
-- Cost per impression (usually 1,000 downloads): CPM
-- Developers have the benefit of a targeted audience which means. 
-  - Your impressions can be lower (as little as 500 downloads per episode)
-  - Your rates can be higher ($20-$50 CPM for generic ads vs $150-250 CPM)
-
-If your product really is the podcast (Patronage Route).
-This is **VERY** difficult to do. The majority of podcasts only make enough to cover their expenses.
