@@ -1,7 +1,7 @@
 # Turning-a-Podcast-into-A-Business
 
 ## Description
-I've been interviewing people in tech for the past 4 years. Last year I turned this into a business where I help other content creators with their brand. In this talk I will break down some of the tools that I used to make turn the podcast into a boutique business by using a lot of python and some awesome folks in the python community! 
+I've been interviewing people in tech for the past 4 years. Last year I turned this into a business where I help other content creators with their brand. In this talk I will break down some of the tools that I used to turn the podcast into a boutique business by using a lot of python and some awesome folks in the python community! 
 
 ## Abstract
 We will cover the building of a podcast the easy and hard way. I started with the hard way that includes using Flask and PyMongo (plus a lot of string formatting) to build my site and host my feed. Then I will cover why I stopped doing that and opted to go with a more traditional host.
