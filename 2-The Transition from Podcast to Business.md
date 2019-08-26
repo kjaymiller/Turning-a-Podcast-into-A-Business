@@ -12,9 +12,9 @@ Absolutely not, in fact you can continue to host your podcast for very cheap.
 
 ### If your product is the ~~podcast~~ ads.
 
-[X] A Product (Advertisers)
-[X] Demand for that product (_People that would sign up for the products_)
-[X] Access to the customer base (_If they listen to your podcast_)
+- [X] A Product (Advertisers)
+- [X] Demand for that product (_People that would sign up for the products_)
+- [X] Access to the customer base (_If they listen to your podcast_)
 
 Requirements
 - Cost per impression (usually 1,000 downloads): CPM
@@ -23,9 +23,9 @@ Requirements
   - Your rates can be higher ($20-$50 CPM for generic ads vs $150-250 CPM)
 
 ### If your product really is the podcast (Patronage Route).
-[X] A Product (Podcast)
-[X] Demand for that product (_People that would sign up for the products_)
-[X] Access to the customer base (_If they listen to your podcast_)
+- [X] A Product (Podcast)
+- [X] Demand for that product (_People that would sign up for the products_)
+- [X] Access to the customer base (_If they listen to your podcast_)
 
 
 This is **VERY** difficult to do. The majority of podcasts only make enough to cover their expenses which you should do.
