@@ -53,7 +53,9 @@ More than you think.
 
 ### You control how much you show and how you show it.
 
-You can show the latest episodes.
+You can provide multiple options for how to present episodes.
 ![Latest Episode](https://kjaymiller.s3-us-west-2.amazonaws.com/images/Screen-Shot-2019-08-26-13-34-46.94.png)
 
-You can show specific episodes based on episode number or other things.
+You can host multiple podcasts
+![Podcast Object](https://kjaymiller.s3-us-west-2.amazonaws.com/images/Screen-Shot-2019-08-26-13-50-20.07.png)
+![PIT Podcast Object](https://kjaymiller.s3-us-west-2.amazonaws.com/images/Screen-Shot-2019-08-26-13-49-26.89.png)
